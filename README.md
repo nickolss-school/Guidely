@@ -1,6 +1,8 @@
 # Guidely - Plataforma de Mentoria e Conexão Profissional
 
-![Guidely Logo](./docs/icon.png)
+<p align="center">
+<img src="./docs/icon.png" alt="Guidely Logo" width="200">
+</p>
 
 **Guidely** é uma plataforma web moderna desenvolvida para conectar profissionais experientes (mentores) a pessoas que buscam orientação e desenvolvimento de carreira (mentorados). O sistema permite que mentorados encontrem mentores em diversas áreas de atuação, agendem sessões e gerenciem suas jornadas de aprendizado.
 
@@ -52,4 +54,5 @@ Este projeto foi construído utilizando uma stack de tecnologias modernas, separ
 
 | Nome do Integrante | Responsabilidades                               | GitHub                                    |
 | :----------------- | :---------------------------------------------- | :---------------------------------------- |
+
 | Nickolas Maia de Araujo  | Desenvolvedor Full Stack   | [Link para o GitHub](https://github.com/nickolss) |
