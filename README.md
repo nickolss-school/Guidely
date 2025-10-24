@@ -52,7 +52,7 @@ Este projeto foi construído utilizando uma stack de tecnologias modernas, separ
 *   **MySQL:** Banco de dados relacional principal para dados estruturados.
 *   **MongoDB:** Banco de dados NoSQL para dados semiestruturados, como logs ou configurações de anúncios.
 ___
-## 👥 Equipe
+## Equipe
 
 | Nome do Integrante      | Responsabilidades        | GitHub                                            |
 | :---------------------- | :----------------------- | :------------------------------------------------ |
