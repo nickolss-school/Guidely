@@ -34,6 +34,10 @@ export default function LoginPage() {
 
   const form = useForm<LoginData>({
     resolver: zodResolver(LoginSchema),
+    defaultValues: {
+      email: "",
+      password: "",
+    },
   });
 
   async function onSubmit(values: LoginData) {
